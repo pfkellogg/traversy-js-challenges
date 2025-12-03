@@ -1,6 +1,7 @@
 function helloWorld() {
   // Return the string 'Hello World!'
-  return 'Hello World!';
+  // comment
+  return 'Hello World!'
 }
 
-module.exports = helloWorld;
+module.exports = helloWorld
